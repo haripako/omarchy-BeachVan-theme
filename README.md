@@ -7,5 +7,5 @@ A theme for Omarchy.
 # Installation
 
 ```
-omarchy-theme-install https://github.com/haripako/omarchy-BeachVan-theme
+omarchy-theme-install https://github.com/haripako/omarchy-beachvan-theme
 ```
