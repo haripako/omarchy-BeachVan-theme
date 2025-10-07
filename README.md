@@ -1,7 +1,7 @@
 # BeachVan
 A theme for Omarchy.
 
-![4e55393a-686c-4171-ad12-5daec12689e2](https://github.com/user-attachments/assets/4b1d6e5f-8f2c-494a-adca-e8142c26bf43)
+<img width="2554" height="1441" alt="screenshot-2025-10-08_00-28-10" src="https://github.com/user-attachments/assets/4f84ac38-a7c1-4cd3-ae09-3d2998749b55" />
 
 # Installation
 
