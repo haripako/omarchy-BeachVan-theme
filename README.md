@@ -5,4 +5,6 @@ A theme for Omarchy.
 
 # Installation
 
+```
 omarchy-theme-install https://github.com/haripako/omarchy-BeachVan-theme
+```
