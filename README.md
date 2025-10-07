@@ -1,2 +1,2 @@
 # omarchy-BeachVan-theme
-Omarchy Theme
+Beach Van
